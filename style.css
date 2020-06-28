@@ -104,28 +104,28 @@ input[type='submit'] {
 */
 
 body {
-  background: auto;
+  background: #1c2022;
 }
 
 .container {
-  border-left: auto;
+  border-left: 0.7em solid #ff01ff;
 }
 
 p {
-  color: auto;
+  color: #9d9d9d;
 }
 
 input[type='text'],
 textarea {
-  background: auto;
-  border-bottom: auto;
+  background: #2b3337;
+  border-bottom: #2b3337;
 }
 
 input[type='text']:focus,
 textarea:focus {
-  border-bottom: auto;
+  border-bottom: 1px solid #9d9d9d;
 }
 
 input[type='submit'] {
-  background: auto;
+  background: #ff01ff;
 }
